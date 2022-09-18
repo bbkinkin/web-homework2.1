@@ -1,0 +1,88 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-image: url(img//index-img/1.jpg);
+    background-size: 100%;
+}
+
+#box1 {
+    height: 500px;
+    width: 1000px;
+    background-color: rgb(42, 74, 129);
+    border: 1px solid rgb(42, 74, 129);
+    margin: 10px auto;
+    box-shadow: 5px 5px 5px 5px rgb(61, 89, 141);
+    text-align: center;
+    opacity: 0.6;
+}
+
+#img {
+    border-radius: 50%/50%;
+    height: 300px;
+    width: 300x;
+    position: absolute;
+    top: 60px;
+    left: 200px;
+    opacity: 0.8;
+}
+
+#music {
+    /* width: 300px; */
+    height: 70px;
+    position: absolute;
+    top: 390px;
+    left: 200px;
+}
+
+#p {
+    font-size: 55px;
+    font-weight: bold;
+    color: rgba(116, 137, 178, 0.8);
+    position: absolute;
+    top: 20px;
+    left: 565px;
+}
+
+#box6 {
+    position: relative;
+    margin: 10px;
+    top: -430px;
+    left: 650px;
+}
+
+#box2 div img {
+    object-fit: contain;
+    height: 100px;
+    width: 100px;
+}
+
+#box2 div h2 {
+    color: rgba(116, 137, 178, 0.8);
+}
+
+.h2 {
+    position: relative;
+    top: -70px;
+    left: 120px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#p3 {
+    color: rgb(239, 228, 237);
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: absolute;
+    top: 500px;
+    left: 800px;
+    opacity: 0.7;
+}
+
+#box2 {
+    height: 20px;
+}
